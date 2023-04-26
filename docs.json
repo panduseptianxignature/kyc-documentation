@@ -1,6 +1,8 @@
 {
-  "name": "KYC Documentation",
-  "description": "KYC documentation.",
-  "logo": "/assets/logo.png",
-  "logoDark": "/assets/logo-dark.png"
+  "name": "docs.page",
+  "theme": "#36B9B9",
+  "sidebar": [
+    ["Home", "/"],
+    ["Another Page", "/another-page"]
+  ]
 }
