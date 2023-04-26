@@ -1,8 +1,8 @@
 {
-  "name": "docs.page",
+  "name": "Xignature KYC API",
   "theme": "#36B9B9",
   "sidebar": [
-    ["Home", "/"],
-    ["Another Page", "/another-page"]
+    ["Introduction", "/"],
+    ["Authorization", "/authorization"]
   ]
 }
